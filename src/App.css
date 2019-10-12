@@ -1,0 +1,47 @@
+.container-nav, .navbar.navbar-default {
+  background: #343a40;
+  color: #fff;
+}
+
+.section-top {
+  text-align: center;
+  padding: 60px 0;
+}
+
+.section-top button {
+  margin-top: 20px;
+  padding: 10px;
+  margin-left: 5px;
+}
+
+.head-content p {
+  width: 53%;
+  text-align: center;
+  font-weight: 300;
+  font-size: 20px;
+  margin-left: 263px;
+}
+
+.box p {
+  text-align: justify;
+  padding: 13px;
+  font-size: 15px;
+}
+
+.coustom {
+  margin-left: 50%;
+}
+#footer {
+  background-color: #343a40;
+  color: #fff;
+  text-align: center;
+  padding: 50px 0;
+  font-weight: bold;
+}
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 0px;
+  margin-top: 6%;
+}
